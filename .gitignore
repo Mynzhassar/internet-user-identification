@@ -9,3 +9,7 @@
 10users
 150users
 *.csv
+
+#others
+
+*.pkl
